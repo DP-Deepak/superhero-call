@@ -6,7 +6,7 @@ const callingRouter = express.Router();
 
 
 
-// @route      GET /api/customer/
+// @route      GET /api/call/
 // @desc       Get Matching Hero
 // @access     Private
 callingRouter.get('/',
